@@ -11,3 +11,5 @@ showing high-vulnerability patients receive 56% fewer routine visits at Stage 2 
 in ER encounters at end-stage kidney failure.
 - Co-developed recommendations of expanding telehealth and Southwest Kansas mobile screening units
 - Heat map in presentation credited for “digging deep into the Social Vulnerability Index with a strong accompanying visual”
+
+*Note* Due to DataFest's confidentiality policy, I do not upload the content of any datasets.
