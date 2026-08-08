@@ -13,6 +13,7 @@ in ER encounters at end-stage kidney failure.
 - Heat map in presentation credited for “digging deep into the Social Vulnerability Index with a strong accompanying visual”
 
 [Final Presentation (PDF)](Y-Star.pdf)
+
 [Heat Map Raw Code](datafest_heat_map.md)
 
 **Note:** Due to DataFest's confidentiality policy, I do not upload the content of any datasets.
