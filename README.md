@@ -1,4 +1,4 @@
-2026 ASA Datafest @ UCLA Chronic Kidney Disease (CKD) Analysis
+**2026 ASA Datafest @ UCLA Chronic Kidney Disease (CKD) Analysis**
 
 Team Y-star (Mariana Castellanos, Mikey Chen, Dan Le, Siddharth Chittapuram)
 
